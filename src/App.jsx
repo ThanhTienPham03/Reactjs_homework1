@@ -35,7 +35,6 @@ function App() {
         </div>
         <label for="subject">Your best Subject</label>
         <div className='form-group'>
-        <label>Subject</label><br />
         <input type="checkbox" id="Math" name="subject" value="Math"/>
         <label for="math">Math</label>
         <input type="checkbox" id="Physics" name="subject" value="physics"/>
